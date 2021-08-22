@@ -1,7 +1,7 @@
 {
   "name": "ghostleg-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord에서 사다리게임을 진행할 수 있는 봇입니다.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
