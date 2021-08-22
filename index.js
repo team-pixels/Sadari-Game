@@ -118,7 +118,7 @@ client.on('interactionCreate', async interaction => {
 			.addFields(
 				{ name: '개발자', value: '엉클' },
 				{ name: '버전', value: '1.0' },
-                { name: '소스코드', value: '[준비 중](https://discord.app/)'}
+                { name: '소스 코드', value: '[GitHub](https://github.com/CelNuc/GhostLeg-Bot)'}
 			)
 			.setFooter(`정보 요청자: ${interaction.user.username} | ${interaction.user.id}`);
 
