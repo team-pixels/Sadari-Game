@@ -1,5 +1,5 @@
-# 🤖 사다리게임 봇
-![사다리게임 홍보 이미지](https://user-images.githubusercontent.com/86545356/130357776-951955fa-7a39-40de-9772-188b829785bf.png)
+# 🪜 사다리게임
+![사다리게임 홍보 이미지](https://cdn.discordapp.com/attachments/869226823060434954/914378849154895952/66a4f3482b27b315.png)
 
 
 **사다리게임 봇**은 Discord에서 사다리게임을 진행할 수 있는 봇입니다.   
@@ -7,16 +7,13 @@
 
 Discord 서버 혹은 봇과의 개인 메시지(DM)에서 `/사다리게임`을 입력하여 바로 시작할 수 있습니다.       
 이 봇으로 소규모 서버에서 이벤트를 추첨하거나 유저 그룹에서 벌칙을 수행할 유저를 선정하는 등 다방면에서 사용할 수 있습니다.  
-  
-  
-*__공식 Discord 제품이 아닙니다. Discord에 의해 승인되거나 관련되지 않았습니다.__*
 
 ## 바로 이용하기
 
 지금 바로 봇을 Discord에서 이용하고 싶나요?   
 아래의 방법을 통해 즉시 사용할 수 있습니다.   
 
-[**봇 서포트 서버**](https://discord.gg/Eve6HeGjy9)에 접속하거나 개인 서버에 [**봇을 초대**](https://discord.com/api/oauth2/authorize?client_id=878883009930100776&permissions=2147502080&scope=bot%20applications.commands)하여 Discord에서 사다리게임을 이용하실 수 있습니다.
+[**Pixel 지원**](https://discord.gg/Eve6HeGjy9)에 접속하거나 개인 서버에 [**봇을 초대**](https://discord.com/oauth2/authorize?client_id=878883009930100776&permissions=83968&scope=bot%20applications.commands)하여 Discord에서 사다리게임을 이용하실 수 있습니다.
 
 ## 직접 설치하기
 
@@ -41,3 +38,5 @@ Discord 서버 혹은 봇과의 개인 메시지(DM)에서 `/사다리게임`을
 
 **사다리게임 봇**은 AGPL-3.0 License를 사용하고 있습니다.  
 본 라이선스에 따라 봇의 소스코드를 사용할 경우 해당 작업물에 대한 소스 코드 배포 의무가 있습니다.
+
+###### Copyright &copy; 2022 Pixel. 모든 권리 보유.
